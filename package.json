@@ -139,5 +139,6 @@
     "moduleNameMapper": {
       "src/(.*)": "<rootDir>/src/$1"
     }
-  }
+  },
+  "packageManager": "yarn@4.9.1"
 }
